@@ -1,0 +1,19 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  width: 300px;
+}
+h1 {
+  font-size: 20px;
+  color: #4B0082;
+}
+button {
+  background: #4B0082;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
